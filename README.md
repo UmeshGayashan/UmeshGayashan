@@ -29,4 +29,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ⚡ Fun fact Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide -->
 
-![GithubPic](https://github.com/UmeshGayashan/UmeshGayashan/src/assets/extra/GithubPic.png)
+![GithubPic](https://github.com/UmeshGayashan/UmeshGayashan/blob/main/src/assets/extra/GithubPic.png)
