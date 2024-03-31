@@ -1,3 +1,4 @@
+![GithubPic](https://github.com/UmeshGayashan/UmeshGayashan/blob/main/src/assets/extra/GithubPic.png)
 # 👋 Hi, I’m @UmeshGayashan!
 
 I'm passionate about Machine Learning and Data Analysis. Currently pursuing a degree in Computer Engineering, I'm enthusiastic about leveraging AI technologies.
@@ -29,4 +30,3 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ⚡ Fun fact Coding is like cooking in a kitchen where recipe is your srs and kitchen is your ide -->
 
-![GithubPic](https://github.com/UmeshGayashan/UmeshGayashan/blob/main/src/assets/extra/GithubPic.png)
