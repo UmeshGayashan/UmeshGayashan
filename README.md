@@ -4,9 +4,9 @@
 I'm passionate about Web Application Development, Machine Learning and Data Analysis. Currently following a degree in Computer Engineering in University of Ruhuna.
 
 - 👀 Interested in Machine Learning & MERN
-- 🔭 I’m currently working on BabyVaxPro (Baby Vaccination Management System)
+- 🔭 I’m currently working as an Intern Software Engineer in Akvasoft.
 - 🌱 I’m currently learning DevOps and various technologies
-- 💞️ I’m looking to collaborate on AI platforms.
+- 💞️ I’m looking to collaborate on Fintech application Development.
 - 📫 How to reach me umeshgayashan099@gmail.com
 
 <!---
