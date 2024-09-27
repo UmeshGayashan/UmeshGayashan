@@ -27,6 +27,7 @@ import pizzaapp from "./pizzadelivary.png"
 import python from "./python.png"
 import mern from "./MERN.png"
 import flutter from "./Flutter.png"
+import java from "./java.png"
 
 export {
   logo,
@@ -56,5 +57,6 @@ export {
   pizzaapp,
   python,
   mern,
-  flutter
+  flutter,
+  java
 };

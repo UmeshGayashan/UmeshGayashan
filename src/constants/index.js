@@ -21,7 +21,8 @@ import {
   pizzaapp,
   python,
   mern,
-  flutter
+  flutter,
+  java
 } from "../assets";
 
 export const navLinks = [
@@ -41,11 +42,11 @@ export const navLinks = [
 
 const services = [
   {
-    title: "UI UX Engineer",
+    title: "UI/UX Engineer",
     icon: figma,
   },
   {
-    title: "Frontend Developer",
+    title: "Frontend Development",
     icon: reactjs,
   },
   {
@@ -53,12 +54,16 @@ const services = [
     icon: python,
   },
   {
-    title: "Web Developer",
+    title: "Web Application Development",
     icon: mern,
   },
   {
-    title: "Mobile Developer",
+    title: "Mobile Application Development",
     icon: flutter,
+  },
+  {
+    title: "Network Programming",
+    icon: java,
   },
 ];
 
@@ -112,131 +117,109 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Secretary- Communication Society",
-    company_name: "IEEE Student Branch University of Ruhuna",
+    title: "Software Engineer - Frontend (Intern)",
+    company_name: "Akvasoft (Pvt) Limited",
+    icon: creator,
+    iconBg: "#E6DEDD",
+    date: "2024 - Present",
+    points: [
+      "Proficient in building user interfaces using React and TypeScript.",
+      "Ability to prioritize tasks effectively and meet deadlines.",
+      "Experience in managing multiple projects simultaneously.",
+      "Strong focus on completing assigned tasks accurately and efficiently."
+    ],
+  },
+  {
+    title: "3rd Year Undergraduate Student",
+    company_name: "Faculty of Engineerning,University of Ruhuna",
     icon: creator,
     iconBg: "#383E56",
     date: "2024 - Present",
     points: [
-      "Effectively communicate with branch members, faculty advisors, and IEEE officials.",
-      "Gain experience in planning, organizing, and executing events and activities.",
-      "Engage with members,work together and win together ",
+      "Technical Team Member of App Development Context organizing by CS chapter of IEEE of University of Ruhuna, Faculty of Engineering",
+      "Member of ZeroPlastic, University of Ruhuna",
+      "Won 5th place of Red Cypher 1.0 organized by CS chapter of IEEE of University of Ruhuna, Faculty of Engineering",
+      "IEEE (The Institute of Electrical and Electronics Engineers) Student Member: 100201915",
     ],
   },
   {
-    title: "Captain(Women)-Faculty Chess Team",
+    title: "2nd Year Undergraduate Student",
     company_name: "Faculty of Engineerning,University of Ruhuna",
     icon: creator,
     iconBg: "#E6DEDD",
-    date: "2023 - Present",
+    date: "2023",
     points: [
-      "Won Third place, inter-faculty Chess championship Women,University of Ruhuna.",
+      "Creative Contributions to Ruhuna Robotics Challenge Xbotix-2023",
+      "Successfully completed Certificate Course in Soft Skills Development – Conducted by the Career Guidance unit of University of Ruhuna"
       ]
   },
+  {
+    title: "Member",
+    company_name: "Sri Lanka Unites",
+    icon: creator,
+    iconBg: "#E6DEDD",
+    date: "2022 - Present",
+    points: [      
+    ],
+  },
   {  
-    title: "Team Leader,Outgoing Exchange marketing Business to business",
-    company_name: "AIESEC in Ruhuna",
+    title: "1st Year Undergraduate Student",
+    company_name: "Faculty of Engineerning,University of Ruhuna",
     icon: creator,
     iconBg: "#383E56",
     date: "2022 – 2023",
     points: [
-      " Best Team Leader, Outgoing Exchange marketing, Business to business 2023,AIESEC in Ruhuna June 2023" ,
-      "Design 30+ Flyers",
-      "Gain experience in planning, organizing, and executing events and activities.",
+      "Engaged in volunteer works organized by the University as Team Leader and won the 1st place. (Sayurutherata Manudham Beach Cleanup Project)",
+    ],
+  },
+  {  
+    title: "Assistant Pharmacist",
+    company_name: "Saneepa Pharmacy",
+    icon: creator,
+    iconBg: "#383E56",
+    date: "2019 – 2022",
+    points: [
+      "Assist in preparing and dispensing prescription medications under the supervision of a licensed pharmacist.",
+      "Provide customer service by answering questions about medications and health products.",
+      "Help maintain inventory levels, including ordering and restocking medications and supplies.",
+      "Ensure proper storage of medications, adhering to safety and regulatory standards.",
+      "Offer basic information about medication usage, side effects, and storage",
+      "Assist in processing insurance claims and managing billing inquiries."
+    ],
+  },
+  {  
+    title: "TUTOR",
+    company_name: "HOME VISIT",
+    icon: creator,
+    iconBg: "#383E56",
+    date: "2022 – 2023",
+    points: [
+      "Combined Mathematics",
+      "Physics",
+      "Science",
     ],
   },
   {
-    title: "Team Leader,Incoming Global Talent,Business to Bussiness 2022",
-    company_name: "AIESEC in Ruhuna",
+    title: "CADET RANK-CORPORAL",
+    company_name: "National Cadet Corps (NCC)",
     icon: creator,
     iconBg: "#E6DEDD",
-    date: "2021 – 2022",
+    date: "2015 – 2017",
     points: [
-      "Discuss with bussiness partners and pitch them",
-      "Engage with members,work together ",
-      
+      "Successfully attended Annual Assessment Camp Boys of Army Wing Cadets held at NATIONAL CADET CORPS TRAINING CENTER – RANTEMBE",      
     ],
   },
   {
-    title: "Mentor",
-    company_name: "Sri Lanka Unites",
+    title: "Active Member",
+    company_name: "Sri Dharmaloka Central College",
     icon: creator,
     iconBg: "#E6DEDD",
-    date: "2022",
+    date: "2010 - 2018",
     points: [
-      "Organized Leadership Programs",
-      "Guide the particpants and actively work with them ",
-      
-    ],
-  },
-  
-  {
-    title: "Campus Ambassador Intern",
-    company_name: "IMUN",
-    icon: creator,
-    iconBg: "#E6DEDD",
-    date: "July 2021-August 2021",
-    points: [
-      "Organized Leadership Programs",
-      "Guide the particpants and actively work with them ",
-      
-    ],
-  },
-  {
-    title: "Delegate of Estonia",
-    company_name: " IMUN online conference 70.0",
-    icon: creator,
-    iconBg: "#E6DEDD",
-    date: "August 2021",
-    points: [
-      
-    ],
-  },
-  {
-    title: "Teacher",
-    company_name: "Holy Cross College Gampaha",
-    icon: creator,
-    iconBg: "#E6DEDD",
-    date: "2020-2019",
-    points: [
-      "Worked as a voluntary based teacher for Combined Mathematics in Holy Cross College,Gampaha",
-    ],
-  },
-  {
-    title: "President",
-    company_name: "Aviation Club,Holy Cross College Gampaha",
-    icon: creator,
-    iconBg: "#E6DEDD",
-    date: "2019-2018",
-    points: [
-      "Participated  and gained practical knowledge of industry from Out Reach Pilot Programme and Organized by Civil Aviation Authority,2018",
-      "Participated for Quiz Competition Organized by Air Traffic Control Team,2018",
-      "Participated for Quiz Competition Organized by Aviation College,Katunayake",
-    ],
-  },
-  {
-    title: "Secretay",
-    company_name: "Science Society,Holy Cross College Gampaha",
-    icon: creator,
-    iconBg: "#E6DEDD",
-    date: "2019-2018",
-    points: [
-      "Won Second Place from Mathematics Quiz Competition Organized by Yasodhara Devi Balika Vidyalaya,Gampaha,2019",
-      "Participated for Mathematics Quiz Competition Organized by University of Kelaniya,2018",
-      "Organized Annual Science day of Holy Cross College Gampaha 2018",
-    ],
-  },
-  {
-    title: "Other Extra Works done in School",
-    company_name: "Holy Cross College Gampaha",
-    icon: creator,
-    iconBg: "#E6DEDD",
-    date: "2019-2018",
-    points: [
-       "Tressurer-Agnes House,Annual Sports Meet 2018",
-       "Junior Prefect- 2011,2014-2016",
-       "Member - School Dancing Group ,Won third place on zonal dancing competition 2014",
-       "Member - School Debate Team"
+      "Aviation Unit",
+      "Astronomical Society", 
+      "Drug Prevention Unit",
+      "Buddhist Association",
     ],
   },
 ];
