@@ -13,16 +13,19 @@ import {
   mongodb,
   git,
   figma,
-  basicweather,
+  bankAccount,
   threejs,
   github,
-  portfolio,
+  expenseTracker,
   healthyapp,
   pizzaapp,
   python,
   mern,
   flutter,
-  java
+  java,
+  linkedIn,
+  filesharing,
+  babyVac
 } from "../assets";
 
 export const navLinks = [
@@ -265,79 +268,109 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Student Management System",
+    name: "Bank Account Management Web Application",
     description:
-      "Shows Temparture,humidity and wind and change the icon according to weather",
+      "A Bank Account Management System built using the MERN (MongoDB, Express, React, Node.js) stack. This system is designed to enhance the management of bank accounts, providing seamless functionality for two types of users - IT Admin and Employees of Bank.",
     tags: [
       {
-        name: "html",
+        name: "Bootstrap",
         color: "blue-text-gradient",
       },
       {
-        name: "css",
+        name: "MongoDB Atlas",
         color: "green-text-gradient",
       },
       {
-        name: "javascript",
+        name: "Javascript",
         color: "pink-text-gradient",
       },
     ],
-    image: basicweather,
-    source:github,
-    source_code_link: "https://github.com/monilkarajapaksha/BasicWeatherApp.git",
+    image: bankAccount,
+    source:linkedIn,
+    source_code_link: "https://www.linkedin.com/posts/umesh-gayashan-293542237_mernstack-banking-softwaredevelopment-activity-7121919736841437184-lM8p?utm_source=share&utm_medium=member_desktop",
   },
   {
-    name: "Portfolio",
+    name: "Baby Vaccination Management System - Group Project",
     description:
-      "Link to this Project",
+      "Developed using the MERN stack. The project management was effectively handled with JIRA, ensuring smooth progress and organization. UI/UX requirements were finalized using Figma. The system supports three user roles, facilitating efficient management of vaccination schedules and records.",
     tags: [
       {
-        name: "react",
+        name: "Material UI",
         color: "blue-text-gradient",
       },
       {
-        name: "tailwind css",
+        name: "MongoDB Atlas",
         color: "green-text-gradient",
       },
       {
-        name: "threejs",
+        name: "NodeJs",
         color: "pink-text-gradient",
       },
     ],
-    image: portfolio,
+    image: babyVac,
     source:github,
-    source_code_link: "https://github.com/monilkarajapaksha/My_Portfolio.git",
+    source_code_link: "https://github.com/UmeshGayashan/Baby_Vaccination_Management_GroupProject",
+  },
+  {
+    name: "File Sharing Application - Group Project",
+    description:
+      "Developed an application using Java socket programming to facilitate file sharing between chosen devices. The application allows users to select which device will act as the sender and which will be the receiver. The sender can choose the receiver based on their IP address. The receiver periodically sends broadcast signals to announce its presence to the sender.",
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Networking",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Swing",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: filesharing,
+    source:github,
+    source_code_link: "https://github.com/UmeshGayashan/File_Sharing_using_Java_Socket_Programming",
   },
   {
     name: "Expense Tracker Mobile Application",
     description:
-      "Personal health tip Advisor",
+      "Flutter Expense Tracker, your ultimate solution for managing your finances efficiently. Powered by Flutter and Dart, this application utilizes the Hive database to offer seamless offline functionality, ensuring you can keep track of your expenses and incomes anytime, anywhere",
     tags: [
       {
-        name: "figma",
+        name: "flutter",
         color: "blue-text-gradient",
+      },
+      {
+        name: "dart",
+        color: "green-text-gradient",
+      },
+      {
+        name: "hive",
+        color: "pink-text-gradient",
       },
       
     ],
-    image: healthyapp,
-    source:figma,
-    source_code_link: "https://www.figma.com/file/uNtuwfDSolTDjdj0X8V0Ze/HealthyApp?type=design&node-id=260%3A1742&mode=design&t=QfblacC3gXjWC1kI-1",
+    image: expenseTracker,
+    source:linkedIn,
+    source_code_link: "https://www.linkedin.com/posts/umesh-gayashan-293542237_team-up-with-malshi-gimnadhi-in-5th-semester-activity-7170225874263375874-mELM?utm_source=share&utm_medium=member_desktop",
   },
-  {
-    name: "Back Account Management Web Application",
-    description:
-      "Desktop Application for pizza store",
-    tags: [
-      {
-        name: "figma",
-        color: "blue-text-gradient",
-      },
+  // {
+  //   name: "Back Account Management Web Application",
+  //   description:
+  //     "",
+  //   tags: [
+  //     {
+  //       name: "figma",
+  //       color: "blue-text-gradient",
+  //     },
       
-    ],
-    image: pizzaapp,
-    source:figma,
-    source_code_link: "https://www.figma.com/file/gCBHx4Kv77UgqJyGM5JY0P/We-are-Awsome?type=design&node-id=68-123&mode=design&t=1IdcA9Giwzo9wgWS-0",
-  },
+  //   ],
+  //   image: pizzaapp,
+  //   source:figma,
+  //   source_code_link: "",
+  // },
   
 ];
 
