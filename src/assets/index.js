@@ -20,12 +20,13 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
-
 import basicweather from "./basicweatherapp.png";
 import portfolio from "./portfolio.png";
 import healthyapp from "./healthyapp.png";
 import pizzaapp from "./pizzadelivary.png"
+import python from "./python.png"
+import mern from "./MERN.png"
+import flutter from "./Flutter.png"
 
 export {
   logo,
@@ -53,4 +54,7 @@ export {
   portfolio,
   healthyapp,
   pizzaapp,
+  python,
+  mern,
+  flutter
 };

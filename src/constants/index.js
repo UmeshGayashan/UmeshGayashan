@@ -19,6 +19,9 @@ import {
   portfolio,
   healthyapp,
   pizzaapp,
+  python,
+  mern,
+  flutter
 } from "../assets";
 
 export const navLinks = [
@@ -43,19 +46,19 @@ const services = [
   },
   {
     title: "Frontend Developer",
-    icon: mobile,
+    icon: reactjs,
   },
   {
     title: "AI/ML Developer",
-    icon: creator,
+    icon: python,
   },
   {
     title: "Web Developer",
-    icon: web,
+    icon: mern,
   },
   {
     title: "Mobile Developer",
-    icon: backend,
+    icon: flutter,
   },
 ];
 
