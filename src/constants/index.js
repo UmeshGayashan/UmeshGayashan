@@ -17,8 +17,6 @@ import {
   threejs,
   github,
   expenseTracker,
-  healthyapp,
-  pizzaapp,
   python,
   mern,
   flutter,
@@ -53,7 +51,7 @@ const services = [
     icon: reactjs,
   },
   {
-    title: "AI/ML Developer",
+    title: "AI/ML Enthusiast",
     icon: python,
   },
   {
@@ -76,10 +74,6 @@ const technologies = [
     icon: html,
   },
   {
-    name: "CSS 3",
-    icon: css,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -92,20 +86,12 @@ const technologies = [
     icon: reactjs,
   },
   {
-    name: "Tailwind CSS",
-    icon: tailwind,
-  },
-  {
     name: "Node JS",
     icon: nodejs,
   },
   {
     name: "MongoDB",
     icon: mongodb,
-  },
-  {
-    name: "Three JS",
-    icon: threejs,
   },
   {
     name: "git",

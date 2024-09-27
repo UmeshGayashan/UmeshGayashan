@@ -20,8 +20,6 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-import healthyapp from "./healthyapp.png";
-import pizzaapp from "./pizzadelivary.png"
 import python from "./python.png"
 import mern from "./MERN.png"
 import flutter from "./Flutter.png"
@@ -31,6 +29,7 @@ import expenseTracker from "./expenseTracker.png"
 import linkedIn from "./linkedIn.png"
 import filesharing from "./filesharing.png"
 import babyVac from "./babyVac.png"
+import githubPic from "./extra/GithubPic.png"
 
 export {
   babyVac,
@@ -57,12 +56,11 @@ export {
   threejs,
   bankAccount,
   expenseTracker,
-  healthyapp,
-  pizzaapp,
   python,
   mern,
   flutter,
   java,
   linkedIn,
-  filesharing
+  filesharing,
+  githubPic
 };
