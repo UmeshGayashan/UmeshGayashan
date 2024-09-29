@@ -25,16 +25,16 @@ const Contact = () => {
   const handleSubmit =(e)=>{
     e.preventDefault();
     setLoading(true);
-    emailjs.send('service_dlxgm8c',
-    'template_qqgc416',
+    emailjs.send('service_fpeycor',
+    'template_e9ghe38',
     {
       from_name:form.name,
       to_name:'Umesh Gayashan',
-      from_email:form.meail,
+      from_email:form.email,
       to_email:'umeshgayashan099@gmail.com',
       message:form.message,
     },
-    'eMShq2WrmlPHoyyaF'
+    'sT7_OitTH7IjbaiYo'
     )
     .then(()=>{
       setLoading(false);
