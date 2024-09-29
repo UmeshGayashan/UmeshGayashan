@@ -19,10 +19,12 @@ import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
+import wordpress from "./wordpress.png";
 import threejs from "./tech/threejs.svg";
 import python from "./python.png"
 import mern from "./MERN.png"
 import flutter from "./Flutter.png"
+import aws from "./aws.png"
 import java from "./java.png"
 import bankAccount from "./BankAccountManagement.png"
 import expenseTracker from "./expenseTracker.png"
@@ -32,8 +34,12 @@ import babyVac from "./babyVac.png"
 import githubPic from "./extra/GithubPic.png"
 import projectManagement from "./projectManagement.jpg"
 import profilePic from "./profilePic.jpg"
+import vmbox from "./vmbox.png"
+
 
 export {
+  vmbox,
+  wordpress,
   babyVac,
   logo,
   backend,
@@ -67,5 +73,6 @@ export {
   githubPic,
   devOps,
   projectManagement,
-  profilePic
+  profilePic,
+  aws
 };

@@ -1,4 +1,7 @@
 import {
+  vmbox,
+  aws,
+  wordpress,
   mobile,
   backend,
   creator,
@@ -80,16 +83,16 @@ const services = [
 
 const technologies = [
   {
-    name: "HTML 5",
-    icon: html,
+    name: "Flutter",
+    icon: flutter,
   },
   {
     name: "JavaScript",
     icon: javascript,
   },
   {
-    name: "TypeScript",
-    icon: typescript,
+    name: "MERN",
+    icon: mern,
   },
   {
     name: "React JS",
@@ -110,6 +113,18 @@ const technologies = [
   {
     name: "figma",
     icon: figma,
+  },
+  {
+    name: "aws",
+    icon: aws,
+  },
+  {
+    name: "wordpress",
+    icon: wordpress,
+  },
+  {
+    name: "vmbox",
+    icon: vmbox,
   },
 
 ];
