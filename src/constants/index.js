@@ -23,7 +23,9 @@ import {
   java,
   linkedIn,
   filesharing,
-  babyVac
+  babyVac,
+  devOps,
+  projectManagement
 } from "../assets";
 
 export const navLinks = [
@@ -65,6 +67,14 @@ const services = [
   {
     title: "Network Programming",
     icon: java,
+  },
+  {
+    title: "DevOps Engineering",
+    icon: devOps,
+  },
+  {
+    title: "Project Management",
+    icon: projectManagement,
   },
 ];
 
