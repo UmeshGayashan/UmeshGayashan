@@ -1,4 +1,5 @@
 import {
+  DoctorAppointment,
   vmbox,
   aws,
   wordpress,
@@ -367,21 +368,25 @@ const projects = [
     source:linkedIn,
     source_code_link: "https://www.linkedin.com/posts/umesh-gayashan-293542237_team-up-with-malshi-gimnadhi-in-5th-semester-activity-7170225874263375874-mELM?utm_source=share&utm_medium=member_desktop",
   },
-  // {
-  //   name: "Back Account Management Web Application",
-  //   description:
-  //     "",
-  //   tags: [
-  //     {
-  //       name: "figma",
-  //       color: "blue-text-gradient",
-  //     },
+  {
+    name: "Doctor Appointment Management System",
+    description:
+      "This user-friendly interface allows users to effortlessly select a doctor and view available appointment slots along with the status of existing bookings. The app features a seamless appointment-making process, comprehensive doctor profiles, and easy access to previous appointments for effective healthcare management. An integrated chatbot provides instant support for any queries.",
+    tags: [
+      {
+        name: "figma",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "UI/UX",
+        color: "green-text-gradient",
+      },
       
-  //   ],
-  //   image: pizzaapp,
-  //   source:figma,
-  //   source_code_link: "",
-  // },
+    ],
+    image: DoctorAppointment,
+    source:figma,
+    source_code_link: "https://www.figma.com/design/TWdLUHVyYxyUfyGop274AN/Doctot_Appointment?node-id=0-1&t=3auxmswyEu8FbdpP-1",
+  },
   
 ];
 

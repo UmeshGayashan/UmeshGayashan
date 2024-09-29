@@ -35,9 +35,10 @@ import githubPic from "./extra/GithubPic.png"
 import projectManagement from "./projectManagement.jpg"
 import profilePic from "./profilePic.jpg"
 import vmbox from "./vmbox.png"
-
+import DoctorAppointment from "./DoctorAppointment.png"
 
 export {
+  DoctorAppointment,
   vmbox,
   wordpress,
   babyVac,
