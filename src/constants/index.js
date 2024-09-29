@@ -351,15 +351,15 @@ const projects = [
       "Flutter Expense Tracker, your ultimate solution for managing your finances efficiently. Powered by Flutter and Dart, this application utilizes the Hive database to offer seamless offline functionality, ensuring you can keep track of your expenses and incomes anytime, anywhere",
     tags: [
       {
-        name: "flutter",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "dart",
+        name: "Dart",
         color: "green-text-gradient",
       },
       {
-        name: "hive",
+        name: "Hive",
         color: "pink-text-gradient",
       },
       
@@ -374,7 +374,7 @@ const projects = [
       "This user-friendly interface allows users to effortlessly select a doctor and view available appointment slots along with the status of existing bookings. The app features a seamless appointment-making process, comprehensive doctor profiles, and easy access to previous appointments for effective healthcare management. An integrated chatbot provides instant support for any queries.",
     tags: [
       {
-        name: "figma",
+        name: "Figma",
         color: "blue-text-gradient",
       },
       {
