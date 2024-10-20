@@ -16,9 +16,9 @@ You can click the Preview link to take a look at your changes.
 --->
 <div style="display: flex; justify-content: space-between; align-items: center;">
         <img src="https://komarev.com/ghpvc/?username=UmeshGayashan&label=Profile%20views&color=0e75b6&style=flat" alt="UmeshGayashan" />
-        <a href="https://user-badge.committers.top/sri_lanka/UmeshGayashan">
+<!--         <a href="https://user-badge.committers.top/sri_lanka/UmeshGayashan">
             <img src="https://user-badge.committers.top/sri_lanka/UmeshGayashan.svg" />
-        </a>
+        </a> -->
 </div>
 
 ## 🏆 GitHub Trophies
