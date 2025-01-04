@@ -4,7 +4,6 @@
 I'm passionate about Web Application Development, Mobile Application Development, Machine Learning and Data Analysis. Currently following a degree in Computer Engineering in University of Ruhuna.
 
 - 👀 Interested in Software Development.
-- 🔭 I’m currently working as an Intern Software Engineer in Akvasoft.
 - 🌱 I’m currently learning DevOps and various technologies
 - 💞️ I’m looking to collaborate on Fintech application Development.
 - 📫 How to reach me umeshgayashan099@gmail.com
