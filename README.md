@@ -8,7 +8,7 @@ I'm passionate about Web Application Development, Mobile Application Development
 - 💞️ I’m looking to collaborate on Fintech application Development.
 - 📫 How to reach me umeshgayashan099@gmail.com
 - 👨🏻‍💻 Discover my journey and projects https://umeshgayashan.github.io/UmeshGayashan/
-- 👨🏻‍💻 I’m currently working as an Backend Develper Intern
+- 👨🏻‍💻 I’m currently working as a Backend Develper Intern
 
 <!---
 UmeshGayashan/UmeshGayashan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
