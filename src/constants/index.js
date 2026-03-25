@@ -132,6 +132,30 @@ const technologies = [
 
 const experiences = [
   {
+  title: "Associate Software Engineer - Full Stack",
+  company_name: "UEXplus Pvt Ltd",
+  icon: creator, // or a specific company logo if you have one
+  iconBg: "#E6DEDD",
+  date: "2025 - Present", // Updated based on your CV 
+  points: [
+    "Developed robust backend services and RESTful APIs using FastAPI and MySQL, documented with Swagger (OpenAPI).",
+    "Architected and maintained scalable admin web applications using React and TypeScript.",
+    "Built and deployed cross-platform mobile applications using Flutter to ensure seamless user experiences.",
+    "Managed cloud infrastructure on AWS, specifically utilizing Lightsail for backend hosting and S3 for scalable file storage.",
+    "Facilitated project workflows and sprint planning using Trello to ensure timely delivery of features."
+  ],
+},
+{
+    title: "4th Year Undergraduate Student",
+    company_name: "Faculty of Engineerning,University of Ruhuna",
+    icon: creator,
+    iconBg: "#383E56",
+    date: "2024 - 2025",
+    points: [
+      
+    ],
+  },
+  {
     title: "Software Engineer - Frontend (Intern)",
     company_name: "Akvasoft (Pvt) Limited",
     icon: creator,
