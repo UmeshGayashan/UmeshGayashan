@@ -160,7 +160,7 @@ const experiences = [
     company_name: "Akvasoft (Pvt) Limited",
     icon: creator,
     iconBg: "#E6DEDD",
-    date: "2024 - Present",
+    date: "2024",
     points: [
       "Proficient in building user interfaces using React and TypeScript.",
       "Ability to prioritize tasks effectively and meet deadlines.",
@@ -173,7 +173,7 @@ const experiences = [
     company_name: "Faculty of Engineerning,University of Ruhuna",
     icon: creator,
     iconBg: "#383E56",
-    date: "2024 - Present",
+    date: "2024",
     points: [
       "Technical Team Member of App Development Context organizing by CS chapter of IEEE of University of Ruhuna, Faculty of Engineering",
       "Member of ZeroPlastic, University of Ruhuna",
