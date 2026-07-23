@@ -10,6 +10,7 @@ Highly motivated Software Engineer with a B.Sc. (Hons) in Computer Engineering. 
 
 - **Associate Software Engineer (RPA)** @ Innobot Pvt Ltd
 - **Associate Software Engineer (Full Stack)** @ UEXplus Pvt Ltd
+- **Intern Software Engineer (Full Stack)** @ UEXplus Pvt Ltd
 - **Software Engineer Intern** @ Akvasoft Pvt Ltd
 - **B.Sc. Eng. (Hons) in Computer Engineering** @ University of Ruhuna 
 
